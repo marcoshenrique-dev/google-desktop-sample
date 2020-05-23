@@ -1,0 +1,12 @@
+{
+  "name": "google-desktop-sample",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "Marcos Henrique",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
